@@ -1,6 +1,10 @@
-# Automatic Exam Paper Grading 
-### Final Project on Computer Vision
-### by Vasya Pupkin
+#### Final Project on Computer Vision, 2017
+
+| Title                        | Author       |
+| ---------------------------- | ------------ |
+| Automatic Exam Paper Grading | Vasya Pupkin |
+
+
 
 | Item          | Grade | Max Grade  |
 | ------------- | ----- | ---------- |
