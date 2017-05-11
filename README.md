@@ -1,6 +1,6 @@
-# Computer Vision Final Project, 2017
-## Title: Automatic Exam Paper Grading 
-### Author: Vasya Pupkin
+# Automatic Exam Paper Grading 
+### Final Project on Computer Vision
+### by Vasya Pupkin
 
 | Item          | Grade | Max Grade  |
 | ------------- | ----- | ---------- |
@@ -12,7 +12,6 @@
 ### Abstract
 Short description the goal(s) of your project and mehtods used to achieve the goal(s).
 
-
 ### How to build and run
 Instructions on how to build your project and run it from command line.
 
@@ -20,7 +19,9 @@ Instructions on how to build your project and run it from command line.
 2 min demo video that demonstrates how your project works and how to run it. Upload video to vimeo or youtube. (Vimeo is preferable as it is easy to open in SDU)
 
 ### Poster
-upload pdf of poster
+A2 format
+[Poster](pdf/poster.pdf)
 
 ### Presentation
-upload pdf of presentation
+2 min presentation with slides ...
+[Presentation](pdf/presentation.pdf)
