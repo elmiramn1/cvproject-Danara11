@@ -1,8 +1,8 @@
-#### Final Project on Computer Vision, 2017
+## Final Project on Computer Vision, 2017
 
-| Title                        | Author       |
-| ---------------------------- | ------------ |
-| Automatic Exam Paper Grading | Vasya Pupkin |
+| Title                          | Author         |
+| ------------------------------ | -------------- |
+| _Automatic Exam Paper Grading_ | _Vasya Pupkin_ |
 
 
 
