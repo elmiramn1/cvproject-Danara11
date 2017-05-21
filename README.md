@@ -2,7 +2,7 @@
 
 | Title                          | Author         |
 | ------------------------------ | -------------- |
-| _Automatic Exam Paper Grading_ | _Vasya Pupkin_ |
+| _Gestures recognition_ | _Danara Omarkhanova_ |
 
 
 
@@ -14,13 +14,21 @@
 | Presentation  | 0     | 5 points   |
 
 ### Abstract
-Short description the goal(s) of your project and mehtods used to achieve the goal(s).
+My project is about gestures recognition. 
+
 
 ### How to build and run
-Instructions on how to build your project and run it from command line. Edit you `CMakeLists.txt` and `.gitignore` if necessary.
+git clone https://github.com/sduclassroom/cvproject-Danara11.git
+
+cd cvproject-Danara11
+
+cmake .
+
+make
+
+./base
 
 ### Demo
-2 min demo video that demonstrates how your project works and how to run it. Upload video to vimeo or youtube. (Vimeo is preferable as it is easy to open in SDU)
 
 ### Poster
 A2 format
